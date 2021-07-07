@@ -14,5 +14,5 @@
 __给你写段代码吧!__
 
 ```javascript
-const foo = () => console.log('hello world')
+const foo = () => console.log('hello ji-ren-gu')
 ```
